@@ -1,0 +1,3 @@
+car	xe hoi
+tree	cay
+bye	tam biet

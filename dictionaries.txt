@@ -1,3 +1,4 @@
 car	xe hoi
-tree	cay
-bye	tam biet
+hello	xin chao
+dog	con cho
+cat	con meo
